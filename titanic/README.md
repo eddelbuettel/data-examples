@@ -17,3 +17,6 @@ Another filtered subset is in the [earth
 package](https://cran.r-project.org/package=earth) as data set `etitanic` (where 'e'
 stands for the `earth` package).
 
+The file `stanford_titanic` is from [CS109 at
+Stanford](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html)
+as mentioned in the lecture notes.
